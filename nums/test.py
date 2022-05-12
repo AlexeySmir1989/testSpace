@@ -1,9 +1,9 @@
 def plus(a, b):
-    return a + b + 10
+    return a + b
 
 
 def minus(a, b):
-    return 22 + a - b
+    return a - b
 
 
 print(plus(2, 3))
