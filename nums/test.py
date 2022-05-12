@@ -12,3 +12,6 @@ def mult(a, b):
 
 print(plus(2, 3))
 print(minus(5, 2))
+print(mult(2, 5))
+
+
